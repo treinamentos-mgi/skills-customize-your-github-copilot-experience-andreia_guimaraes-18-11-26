@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automated-testing-pytest",
+      "title": "Automated Testing with pytest",
+      "description": "Practice Python unit testing with pytest, including parameterized cases and exception checks.",
+      "path": "assignments/automated-testing-pytest",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "math_utils.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
